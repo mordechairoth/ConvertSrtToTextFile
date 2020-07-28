@@ -1,0 +1,13 @@
+C:\Users\morde\source\repos\SrtToTxt\SrtToTxt\bin\Debug\netcoreapp3.1\SrtToTxt.exe
+C:\Users\morde\source\repos\SrtToTxt\SrtToTxt\bin\Debug\netcoreapp3.1\SrtToTxt.deps.json
+C:\Users\morde\source\repos\SrtToTxt\SrtToTxt\bin\Debug\netcoreapp3.1\SrtToTxt.runtimeconfig.json
+C:\Users\morde\source\repos\SrtToTxt\SrtToTxt\bin\Debug\netcoreapp3.1\SrtToTxt.runtimeconfig.dev.json
+C:\Users\morde\source\repos\SrtToTxt\SrtToTxt\bin\Debug\netcoreapp3.1\SrtToTxt.dll
+C:\Users\morde\source\repos\SrtToTxt\SrtToTxt\bin\Debug\netcoreapp3.1\SrtToTxt.pdb
+C:\Users\morde\source\repos\SrtToTxt\SrtToTxt\obj\Debug\netcoreapp3.1\SrtToTxt.csprojAssemblyReference.cache
+C:\Users\morde\source\repos\SrtToTxt\SrtToTxt\obj\Debug\netcoreapp3.1\SrtToTxt.AssemblyInfoInputs.cache
+C:\Users\morde\source\repos\SrtToTxt\SrtToTxt\obj\Debug\netcoreapp3.1\SrtToTxt.AssemblyInfo.cs
+C:\Users\morde\source\repos\SrtToTxt\SrtToTxt\obj\Debug\netcoreapp3.1\SrtToTxt.csproj.CoreCompileInputs.cache
+C:\Users\morde\source\repos\SrtToTxt\SrtToTxt\obj\Debug\netcoreapp3.1\SrtToTxt.dll
+C:\Users\morde\source\repos\SrtToTxt\SrtToTxt\obj\Debug\netcoreapp3.1\SrtToTxt.pdb
+C:\Users\morde\source\repos\SrtToTxt\SrtToTxt\obj\Debug\netcoreapp3.1\SrtToTxt.genruntimeconfig.cache
